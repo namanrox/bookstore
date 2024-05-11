@@ -104,7 +104,7 @@ function Navbar() {
               <label className="px-3 py-2 border rounded-md flex items-center gap-2 dark:bg-slate-800">
                 <input
                   type="text"
-                  className="grow outline-none rounded dark:bg-slate-800 px-1 dark:text-white"
+                  className="grow outline-none rounded dark:bg-slate-800 px-1 dark:text-white bg-transparent"
                   placeholder="Search"
                 />
                 <svg
