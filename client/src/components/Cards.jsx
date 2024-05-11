@@ -1,4 +1,15 @@
+import PropTypes from "prop-types";
+
 function Cards({ item }) {
+  Cards.propTypes = {
+    item: PropTypes.shape({
+      image: PropTypes.string.isRequired,
+      name: PropTypes.string,
+      category: PropTypes.string,
+      title: PropTypes.string,
+      price: PropTypes.string,
+    }).isRequired,
+  };
   return (
     <>
       <div className="mt-4 my-3 p-3">
