@@ -28,3 +28,10 @@ in your GitBash or terminal of VS Code.
 - Run `npm run dev` to start the client and server both.
 - Check for `App started at port {provider}` to know whether the port is connected.
 - Now you are set to use it locally.
+
+## Reference Images
+![home-light](https://github.com/namanrox/bookstore/blob/master/assets/home-light.png)
+
+![home-dark](https://github.com/namanrox/bookstore/blob/master/assets/home-dark.png)
+
+<img src="https://github.com/namanrox/bookstore/blob/master/assets/login.png" alt="login" width="50%" height="50%" />  <img src="https://github.com/namanrox/bookstore/blob/master/assets/signup.png" alt="sign-up" width="40%" height="40%" />
